@@ -1,0 +1,296 @@
+[Adblock Plus 2.0]
+! Title: Nepali News Clean Filter
+! Version: 0.1.0
+! Expires: 1 days (update frequency)
+! Homepage: https://dbhattarai.info.np/adblocklist/
+! License: https://dbhattarai.info.np/adblocklist/LICENSE
+!
+! Please feel free to open an issue or contribute
+! Repo: https://github.com/dineshdb/adblocklist
+! For more info on rules, see https://adblockplus.org/filter-cheatsheet
+
+
+! ----- START https://aarthiknews.com -----
+||aarthiknews.com/*.gif
+! ----- END https://aarthiknews.com -----
+	
+
+! ----- START https://annapurnapost.com -----
+||annapurnapost.com/*.gif
+! ----- END https://annapurnapost.com -----
+	
+
+! ----- START https://arthasansar.com -----
+||arthasansar.com/*.gif
+! ----- END https://arthasansar.com -----
+	
+
+! ----- START https://arthasarokar.com -----
+||arthasarokar.com/*.gif
+! ----- END https://arthasarokar.com -----
+	
+
+! ----- START https://avenueskhabar.com.np -----
+||avenueskhabar.com.np/*.gif
+! ----- END https://avenueskhabar.com.np -----
+	
+
+! ----- START https://baahrakhari.com -----
+||baahrakhari.com/*.gif
+! ----- END https://baahrakhari.com -----
+	
+
+! ----- START https://bizshala.com -----
+||bizshala.com/*.gif
+! ----- END https://bizshala.com -----
+	
+
+! ----- START https://deshsanchar.com -----
+||deshsanchar.com/*.gif
+! ----- END https://deshsanchar.com -----
+	
+
+! ----- START https://farakdhar.com -----
+||farakdhar.com/*.gif
+! ----- END https://farakdhar.com -----
+	
+
+! ----- START https://goalnepal.com -----
+||goalnepal.com/*.gif
+! ----- END https://goalnepal.com -----
+	
+
+! ----- START https://gorkhapatraonline.com -----
+||gorkhapatraonline.com/*.gif
+! ----- END https://gorkhapatraonline.com -----
+	
+
+! ----- START https://hamrakura.com -----
+||hamrakura.com/*.gif
+! ----- END https://hamrakura.com -----
+	
+
+! ----- START https://hamrokhelkud.com -----
+||hamrokhelkud.com/*.gif
+! ----- END https://hamrokhelkud.com -----
+	
+
+! ----- START https://himalini.com -----
+||himalini.com/*.gif
+! ----- END https://himalini.com -----
+	
+
+! ----- START https://himalkhabar.com -----
+||himalkhabar.com/*.gif
+! ----- END https://himalkhabar.com -----
+	
+
+! ----- START https://janaaastha.com -----
+||janaaastha.com/*.gif
+! ----- END https://janaaastha.com -----
+	
+
+! ----- START https://janaswastha.com -----
+||janaswastha.com/*.gif
+! ----- END https://janaswastha.com -----
+	
+
+! ----- START https://kalakarmi.com -----
+||kalakarmi.com/*.gif
+! ----- END https://kalakarmi.com -----
+	
+
+! ----- START https://kantipurdaily.com -----
+||kantipurdaily.com/*.gif
+! ----- END https://kantipurdaily.com -----
+	
+
+! ----- START https://kathmandupress.com -----
+||kathmandupress.com/*.gif
+! ----- END https://kathmandupress.com -----
+	
+
+! ----- START https://kathmandutribune.com -----
+||kathmandutribune.com/*.gif
+! ----- END https://kathmandutribune.com -----
+	
+
+! ----- START https://kendrabindu.com -----
+||kendrabindu.com/*.gif
+! ----- END https://kendrabindu.com -----
+	
+
+! ----- START https://khabarhub.com -----
+||khabarhub.com/*.gif
+! ----- END https://khabarhub.com -----
+	
+
+! ----- START https://khasokhas.com -----
+||khasokhas.com/*.gif
+! ----- END https://khasokhas.com -----
+	
+
+! ----- START https://koshionline.com -----
+||koshionline.com/*.gif
+! ----- END https://koshionline.com -----
+	
+
+! ----- START https://livemandu.com -----
+||livemandu.com/*.gif
+! ----- END https://livemandu.com -----
+	
+
+! ----- START https://lokaantar.com -----
+||lokaantar.com/*.gif
+! ----- END https://lokaantar.com -----
+	
+
+! ----- START https://nayapage.com -----
+||nayapage.com/*.gif
+! ----- END https://nayapage.com -----
+	
+
+! ----- START https://nayapatrikadaily.com -----
+||nayapatrikadaily.com/*.gif
+! ----- END https://nayapatrikadaily.com -----
+	
+
+! ----- START https://nepalipaisa.com -----
+||nepalipaisa.com/*.gif
+! ----- END https://nepalipaisa.com -----
+	
+
+! ----- START https://nepalipatra.com -----
+||nepalipatra.com/*.gif
+! ----- END https://nepalipatra.com -----
+	
+
+! ----- START https://nepalitelecom.com -----
+||nepalitelecom.com/*.gif
+! ----- END https://nepalitelecom.com -----
+	
+
+! ----- START https://nepalitimes.com -----
+||nepalitimes.com/*.gif
+! ----- END https://nepalitimes.com -----
+	
+
+! ----- START https://nepalkhabar.com -----
+||nepalkhabar.com/*.gif
+! ----- END https://nepalkhabar.com -----
+	
+
+! ----- START https://nepallive.com -----
+||nepallive.com/*.gif
+! ----- END https://nepallive.com -----
+	
+
+! ----- START https://nepalpress.com -----
+||nepalpress.com/*.gif
+! ----- END https://nepalpress.com -----
+	
+
+! ----- START https://nepalsamaya.com -----
+||nepalsamaya.com/*.gif
+! ----- END https://nepalsamaya.com -----
+	
+
+! ----- START https://nepalwatch.com -----
+||nepalwatch.com/*.gif
+! ----- END https://nepalwatch.com -----
+	
+
+! ----- START https://neplays.com -----
+||neplays.com/*.gif
+! ----- END https://neplays.com -----
+	
+
+! ----- START https://newbusinessage.com -----
+||newbusinessage.com/*.gif
+! ----- END https://newbusinessage.com -----
+	
+
+! ----- START https://news24nepal.tv -----
+||news24nepal.tv/*.gif
+! ----- END https://news24nepal.tv -----
+	
+
+! ----- START https://onlinekhabar.com -----
+||onlinekhabar.com/*.gif
+! ----- END https://onlinekhabar.com -----
+	
+
+! ----- START https://onlinemajdoor.com -----
+||onlinemajdoor.com/*.gif
+! ----- END https://onlinemajdoor.com -----
+	
+
+! ----- START https://pahilopost.com -----
+||pahilopost.com/*.gif
+! ----- END https://pahilopost.com -----
+	
+
+! ----- START https://pariwartankhabar.com -----
+||pariwartankhabar.com/*.gif
+! ----- END https://pariwartankhabar.com -----
+	
+
+! ----- START https://peoplesreview.com.np -----
+||peoplesreview.com.np/*.gif
+! ----- END https://peoplesreview.com.np -----
+	
+
+! ----- START https://rajdhanidaily.com -----
+||rajdhanidaily.com/*.gif
+! ----- END https://rajdhanidaily.com -----
+	
+
+! ----- START https://ratopati.com -----
+||ratopati.com/*.gif
+! ----- END https://ratopati.com -----
+	
+
+! ----- START https://reportersnepal.com -----
+||reportersnepal.com/*.gif
+! ----- END https://reportersnepal.com -----
+	
+
+! ----- START https://sajhapost.com -----
+||sajhapost.com/*.gif
+! ----- END https://sajhapost.com -----
+	
+
+! ----- START https://setopati.com -----
+||setopati.com/*.gif
+! ----- END https://setopati.com -----
+	
+
+! ----- START https://shilapatra.com -----
+||shilapatra.com/*.gif
+! ----- END https://shilapatra.com -----
+	
+
+! ----- START https://techsathi.com -----
+||techsathi.com/*.gif
+! ----- END https://techsathi.com -----
+	
+
+! ----- START https://thahakhabar.com -----
+||thahakhabar.com/*.gif
+! ----- END https://thahakhabar.com -----
+	
+
+! ----- START https://ujyaaloonline.com -----
+||ujyaaloonline.com/*.gif
+! ----- END https://ujyaaloonline.com -----
+	
+
+! ----- START https://urjakhabar.com -----
+||urjakhabar.com/*.gif
+! ----- END https://urjakhabar.com -----
+	
+
+! ----- START https://www.techpana.com -----
+||www.techpana.com/*.gif
+! ----- END https://www.techpana.com -----
+	
