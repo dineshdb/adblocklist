@@ -294,3 +294,8 @@
 ||www.techpana.com/*.gif
 ! ----- END https://www.techpana.com -----
 	
+
+! ----- START https://prixacdn.net -----
+||prixacdn.net/*.gif
+! ----- END https://prixacdn.net -----
+	
