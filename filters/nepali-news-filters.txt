@@ -299,3 +299,8 @@
 ||prixacdn.net/*.gif
 ! ----- END https://prixacdn.net -----
 	
+
+! ----- START https://www.makalukhabar.com -----
+||www.makalukhabar.com/*.gif
+! ----- END https://www.makalukhabar.com -----
+	
