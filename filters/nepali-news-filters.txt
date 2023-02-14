@@ -2,8 +2,8 @@
 ! Title: Nepali News Clean Filter
 ! Version: 0.1.0
 ! Expires: 1 days (update frequency)
-! Homepage: https://dbhattarai.info.np/adblocklist/
-! License: https://dbhattarai.info.np/adblocklist/LICENSE
+! Homepage: https://dineshdb.github.io/adblocklist/
+! License: https://dineshdb.github.io/adblocklist/LICENSE
 !
 ! Please feel free to open an issue or contribute
 ! Repo: https://github.com/dineshdb/adblocklist
