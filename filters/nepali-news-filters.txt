@@ -9,7 +9,6 @@
 ! Repo: https://github.com/dineshdb/adblocklist
 ! For more info on rules, see https://adblockplus.org/filter-cheatsheet
 
-
 ! ----- START https://aarthiknews.com -----
 ||aarthiknews.com/*.gif
 ! ----- END https://aarthiknews.com -----
@@ -309,3 +308,9 @@
 ||www.techpana.com/*.gif
 ! ----- END https://www.techpana.com -----
 	
+
+! ----- START https://www.aarthikdainik.com -----
+||www.aarthikdainik.com/*.gif
+! ----- END https://www.aarthikdainik.com -----
+	
+
