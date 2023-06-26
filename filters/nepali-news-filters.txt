@@ -11,306 +11,367 @@
 
 ! ----- START https://aarthiknews.com -----
 ||aarthiknews.com/*.gif
+||.gif^$domain=aarthiknews.com,image
 ! ----- END https://aarthiknews.com -----
 	
 
 ! ----- START https://annapurnapost.com -----
 ||annapurnapost.com/*.gif
+||.gif^$domain=annapurnapost.com,image
 ! ----- END https://annapurnapost.com -----
 	
 
 ! ----- START https://arthasansar.com -----
 ||arthasansar.com/*.gif
+||.gif^$domain=arthasansar.com,image
 ! ----- END https://arthasansar.com -----
 	
 
 ! ----- START https://arthasarokar.com -----
 ||arthasarokar.com/*.gif
+||.gif^$domain=arthasarokar.com,image
 ! ----- END https://arthasarokar.com -----
 	
 
 ! ----- START https://avenueskhabar.com.np -----
 ||avenueskhabar.com.np/*.gif
+||.gif^$domain=avenueskhabar.com.np,image
 ! ----- END https://avenueskhabar.com.np -----
 	
 
 ! ----- START https://baahrakhari.com -----
 ||baahrakhari.com/*.gif
+||.gif^$domain=baahrakhari.com,image
 ! ----- END https://baahrakhari.com -----
 	
 
 ! ----- START https://bizshala.com -----
 ||bizshala.com/*.gif
+||.gif^$domain=bizshala.com,image
 ! ----- END https://bizshala.com -----
 	
 
 ! ----- START https://deshsanchar.com -----
 ||deshsanchar.com/*.gif
+||.gif^$domain=deshsanchar.com,image
 ! ----- END https://deshsanchar.com -----
 	
 
 ! ----- START https://farakdhar.com -----
 ||farakdhar.com/*.gif
+||.gif^$domain=farakdhar.com,image
 ! ----- END https://farakdhar.com -----
 	
 
 ! ----- START https://goalnepal.com -----
 ||goalnepal.com/*.gif
+||.gif^$domain=goalnepal.com,image
 ! ----- END https://goalnepal.com -----
 	
 
 ! ----- START https://gorkhapatraonline.com -----
 ||gorkhapatraonline.com/*.gif
+||.gif^$domain=gorkhapatraonline.com,image
 ! ----- END https://gorkhapatraonline.com -----
 	
 
 ! ----- START https://hamrakura.com -----
 ||hamrakura.com/*.gif
+||.gif^$domain=hamrakura.com,image
 ! ----- END https://hamrakura.com -----
 	
 
 ! ----- START https://hamrokhelkud.com -----
 ||hamrokhelkud.com/*.gif
+||.gif^$domain=hamrokhelkud.com,image
 ! ----- END https://hamrokhelkud.com -----
 	
 
 ! ----- START https://himalini.com -----
 ||himalini.com/*.gif
+||.gif^$domain=himalini.com,image
 ! ----- END https://himalini.com -----
 	
 
 ! ----- START https://himalkhabar.com -----
 ||himalkhabar.com/*.gif
+||.gif^$domain=himalkhabar.com,image
 ! ----- END https://himalkhabar.com -----
 	
 
 ! ----- START https://janaaastha.com -----
 ||janaaastha.com/*.gif
+||.gif^$domain=janaaastha.com,image
 ! ----- END https://janaaastha.com -----
 	
 
 ! ----- START https://janaswastha.com -----
 ||janaswastha.com/*.gif
+||.gif^$domain=janaswastha.com,image
 ! ----- END https://janaswastha.com -----
 	
 
 ! ----- START https://kalakarmi.com -----
 ||kalakarmi.com/*.gif
+||.gif^$domain=kalakarmi.com,image
 ! ----- END https://kalakarmi.com -----
 	
 
 ! ----- START https://kantipurdaily.com -----
 ||kantipurdaily.com/*.gif
+||.gif^$domain=kantipurdaily.com,image
 ! ----- END https://kantipurdaily.com -----
 	
 
 ! ----- START https://kathmandupress.com -----
 ||kathmandupress.com/*.gif
+||.gif^$domain=kathmandupress.com,image
 ! ----- END https://kathmandupress.com -----
 	
 
 ! ----- START https://kathmandutribune.com -----
 ||kathmandutribune.com/*.gif
+||.gif^$domain=kathmandutribune.com,image
 ! ----- END https://kathmandutribune.com -----
 	
 
 ! ----- START https://kendrabindu.com -----
 ||kendrabindu.com/*.gif
+||.gif^$domain=kendrabindu.com,image
 ! ----- END https://kendrabindu.com -----
 	
 
 ! ----- START https://khabarhub.com -----
 ||khabarhub.com/*.gif
+||.gif^$domain=khabarhub.com,image
 ! ----- END https://khabarhub.com -----
 	
 
 ! ----- START https://khasokhas.com -----
 ||khasokhas.com/*.gif
+||.gif^$domain=khasokhas.com,image
 ! ----- END https://khasokhas.com -----
 	
 
 ! ----- START https://koshionline.com -----
 ||koshionline.com/*.gif
+||.gif^$domain=koshionline.com,image
 ! ----- END https://koshionline.com -----
 	
 
 ! ----- START https://livemandu.com -----
 ||livemandu.com/*.gif
+||.gif^$domain=livemandu.com,image
 ! ----- END https://livemandu.com -----
 	
 
 ! ----- START https://lokaantar.com -----
 ||lokaantar.com/*.gif
+||.gif^$domain=lokaantar.com,image
 ! ----- END https://lokaantar.com -----
 	
 
 ! ----- START https://nayapage.com -----
 ||nayapage.com/*.gif
+||.gif^$domain=nayapage.com,image
 ! ----- END https://nayapage.com -----
 	
 
 ! ----- START https://nayapatrikadaily.com -----
 ||nayapatrikadaily.com/*.gif
+||.gif^$domain=nayapatrikadaily.com,image
 ! ----- END https://nayapatrikadaily.com -----
 	
 
 ! ----- START https://nepalipaisa.com -----
 ||nepalipaisa.com/*.gif
+||.gif^$domain=nepalipaisa.com,image
 ! ----- END https://nepalipaisa.com -----
 	
 
 ! ----- START https://nepalipatra.com -----
 ||nepalipatra.com/*.gif
+||.gif^$domain=nepalipatra.com,image
 ! ----- END https://nepalipatra.com -----
 	
 
 ! ----- START https://nepalitelecom.com -----
 ||nepalitelecom.com/*.gif
+||.gif^$domain=nepalitelecom.com,image
 ! ----- END https://nepalitelecom.com -----
 	
 
 ! ----- START https://nepalitimes.com -----
 ||nepalitimes.com/*.gif
+||.gif^$domain=nepalitimes.com,image
 ! ----- END https://nepalitimes.com -----
 	
 
 ! ----- START https://nepalkhabar.com -----
 ||nepalkhabar.com/*.gif
+||.gif^$domain=nepalkhabar.com,image
 ! ----- END https://nepalkhabar.com -----
 	
 
 ! ----- START https://nepallive.com -----
 ||nepallive.com/*.gif
+||.gif^$domain=nepallive.com,image
 ! ----- END https://nepallive.com -----
 	
 
 ! ----- START https://nepalpress.com -----
 ||nepalpress.com/*.gif
+||.gif^$domain=nepalpress.com,image
 ! ----- END https://nepalpress.com -----
 	
 
 ! ----- START https://nepalsamaya.com -----
 ||nepalsamaya.com/*.gif
+||.gif^$domain=nepalsamaya.com,image
 ! ----- END https://nepalsamaya.com -----
 	
 
 ! ----- START https://nepalwatch.com -----
 ||nepalwatch.com/*.gif
+||.gif^$domain=nepalwatch.com,image
 ! ----- END https://nepalwatch.com -----
 	
 
 ! ----- START https://neplays.com -----
 ||neplays.com/*.gif
+||.gif^$domain=neplays.com,image
 ! ----- END https://neplays.com -----
 	
 
 ! ----- START https://newbusinessage.com -----
 ||newbusinessage.com/*.gif
+||.gif^$domain=newbusinessage.com,image
 ! ----- END https://newbusinessage.com -----
 	
 
 ! ----- START https://news24nepal.tv -----
 ||news24nepal.tv/*.gif
+||.gif^$domain=news24nepal.tv,image
 ! ----- END https://news24nepal.tv -----
 	
 
 ! ----- START https://onlinekhabar.com -----
 ||onlinekhabar.com/*.gif
+||.gif^$domain=onlinekhabar.com,image
 ! ----- END https://onlinekhabar.com -----
 	
 
 ! ----- START https://onlinemajdoor.com -----
 ||onlinemajdoor.com/*.gif
+||.gif^$domain=onlinemajdoor.com,image
 ! ----- END https://onlinemajdoor.com -----
 	
 
 ! ----- START https://pahilopost.com -----
 ||pahilopost.com/*.gif
+||.gif^$domain=pahilopost.com,image
 ! ----- END https://pahilopost.com -----
 	
 
 ! ----- START https://pariwartankhabar.com -----
 ||pariwartankhabar.com/*.gif
+||.gif^$domain=pariwartankhabar.com,image
 ! ----- END https://pariwartankhabar.com -----
 	
 
 ! ----- START https://peoplesreview.com.np -----
 ||peoplesreview.com.np/*.gif
+||.gif^$domain=peoplesreview.com.np,image
 ! ----- END https://peoplesreview.com.np -----
 	
 
 ! ----- START https://prixacdn.net -----
 ||prixacdn.net/*.gif
+||.gif^$domain=prixacdn.net,image
 ! ----- END https://prixacdn.net -----
 	
 
 ! ----- START https://rajdhanidaily.com -----
 ||rajdhanidaily.com/*.gif
+||.gif^$domain=rajdhanidaily.com,image
 ! ----- END https://rajdhanidaily.com -----
 	
 
 ! ----- START https://ratopati.com -----
 ||ratopati.com/*.gif
+||.gif^$domain=ratopati.com,image
 ! ----- END https://ratopati.com -----
 	
 
 ! ----- START https://reportersnepal.com -----
 ||reportersnepal.com/*.gif
+||.gif^$domain=reportersnepal.com,image
 ! ----- END https://reportersnepal.com -----
 	
 
 ! ----- START https://sajhapost.com -----
 ||sajhapost.com/*.gif
+||.gif^$domain=sajhapost.com,image
 ! ----- END https://sajhapost.com -----
 	
 
 ! ----- START https://setopati.com -----
 ||setopati.com/*.gif
+||.gif^$domain=setopati.com,image
 ! ----- END https://setopati.com -----
 	
 
 ! ----- START https://shilapatra.com -----
 ||shilapatra.com/*.gif
+||.gif^$domain=shilapatra.com,image
 ! ----- END https://shilapatra.com -----
 	
 
 ! ----- START https://techsathi.com -----
 ||techsathi.com/*.gif
+||.gif^$domain=techsathi.com,image
 ! ----- END https://techsathi.com -----
 	
 
 ! ----- START https://thahakhabar.com -----
 ||thahakhabar.com/*.gif
+||.gif^$domain=thahakhabar.com,image
 ! ----- END https://thahakhabar.com -----
 	
 
 ! ----- START https://ujyaaloonline.com -----
 ||ujyaaloonline.com/*.gif
+||.gif^$domain=ujyaaloonline.com,image
 ! ----- END https://ujyaaloonline.com -----
 	
 
 ! ----- START https://urjakhabar.com -----
 ||urjakhabar.com/*.gif
+||.gif^$domain=urjakhabar.com,image
 ! ----- END https://urjakhabar.com -----
 	
 
 ! ----- START https://www.lumbinipost.com -----
 ||www.lumbinipost.com/*.gif
+||.gif^$domain=www.lumbinipost.com,image
 ! ----- END https://www.lumbinipost.com -----
 	
 
 ! ----- START https://www.makalukhabar.com -----
 ||www.makalukhabar.com/*.gif
+||.gif^$domain=www.makalukhabar.com,image
 ! ----- END https://www.makalukhabar.com -----
 	
 
 ! ----- START https://www.techpana.com -----
 ||www.techpana.com/*.gif
+||.gif^$domain=www.techpana.com,image
 ! ----- END https://www.techpana.com -----
 	
 
 ! ----- START https://www.aarthikdainik.com -----
 ||www.aarthikdainik.com/*.gif
+||.gif^$domain=www.aarthikdainik.com,image
 ! ----- END https://www.aarthikdainik.com -----
 	
 
