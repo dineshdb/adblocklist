@@ -49,7 +49,11 @@
 ||bizshala.com/*.gif
 ||.gif^$domain=bizshala.com,image
 ! ----- END https://bizshala.com -----
-	
+
+! ----- START https://clickmandu.com -----
+||clickmandu.com/*.gif
+||.gif^$domain=clickmandu.com,image
+! ----- END https://clickmandu.com -----
 
 ! ----- START https://deshsanchar.com -----
 ||deshsanchar.com/*.gif
