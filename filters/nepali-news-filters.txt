@@ -61,6 +61,12 @@
 ! ----- END https://deshsanchar.com -----
 	
 
+! ----- START https://ekantipur.com -----
+||ekantipur.com/*.gif
+||.gif^$domain=ekantipur.com,image
+! ----- END https://ekantipur.com -----
+	
+
 ! ----- START https://farakdhar.com -----
 ||farakdhar.com/*.gif
 ||.gif^$domain=farakdhar.com,image
@@ -355,6 +361,12 @@
 ! ----- END https://urjakhabar.com -----
 	
 
+! ----- START https://www.aarthikdainik.com -----
+||www.aarthikdainik.com/*.gif
+||.gif^$domain=www.aarthikdainik.com,image
+! ----- END https://www.aarthikdainik.com -----
+	
+
 ! ----- START https://www.lumbinipost.com -----
 ||www.lumbinipost.com/*.gif
 ||.gif^$domain=www.lumbinipost.com,image
@@ -371,11 +383,5 @@
 ||www.techpana.com/*.gif
 ||.gif^$domain=www.techpana.com,image
 ! ----- END https://www.techpana.com -----
-	
-
-! ----- START https://www.aarthikdainik.com -----
-||www.aarthikdainik.com/*.gif
-||.gif^$domain=www.aarthikdainik.com,image
-! ----- END https://www.aarthikdainik.com -----
 	
 
