@@ -49,11 +49,13 @@
 ||bizshala.com/*.gif
 ||.gif^$domain=bizshala.com,image
 ! ----- END https://bizshala.com -----
+	
 
 ! ----- START https://clickmandu.com -----
 ||clickmandu.com/*.gif
 ||.gif^$domain=clickmandu.com,image
 ! ----- END https://clickmandu.com -----
+	
 
 ! ----- START https://deshsanchar.com -----
 ||deshsanchar.com/*.gif
@@ -155,6 +157,12 @@
 ||khabarhub.com/*.gif
 ||.gif^$domain=khabarhub.com,image
 ! ----- END https://khabarhub.com -----
+	
+
+! ----- START https://kharibot.com -----
+||kharibot.com/*.gif
+||.gif^$domain=kharibot.com,image
+! ----- END https://kharibot.com -----
 	
 
 ! ----- START https://khasokhas.com -----
