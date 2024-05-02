@@ -249,6 +249,12 @@
 ! ----- END https://nepalsamaya.com -----
 	
 
+! ----- START https://nepalviews.com -----
+||nepalviews.com/*.gif
+||.gif^$domain=nepalviews.com,image
+! ----- END https://nepalviews.com -----
+	
+
 ! ----- START https://nepalwatch.com -----
 ||nepalwatch.com/*.gif
 ||.gif^$domain=nepalwatch.com,image
