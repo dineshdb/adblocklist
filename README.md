@@ -5,8 +5,9 @@ It does not aim to block all the aids, only the most obnoxious ones.
 
 ## Installation
 
-Use following link to import
+Add
 [this list](https://dineshdb.github.io/adblocklist/filters/nepali-news-filters.txt)
+manually.
 
 ## LICENSE
 
