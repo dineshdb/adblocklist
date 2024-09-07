@@ -1,5 +1,6 @@
 aarthikdainik.com
 aarthiknews.com
+abhiyandaily.com
 annapurnapost.com
 arghakhanchi.com
 arthasansar.com
@@ -13,6 +14,7 @@ eadarsha.com
 ekantipur.com
 epaperhimalayadarpan.com
 farakdhar.com
+globalaawaj.com
 goalnepal.com
 gorkhapatraonline.com
 hamrakura.com
@@ -82,4 +84,3 @@ thehimalayantimes.com
 topnepalnews.com
 ujyaaloonline.com
 urjakhabar.com
-www.abhiyandaily.com
