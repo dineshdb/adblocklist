@@ -14,6 +14,7 @@ const preamble = `
 `;
 
 const contents = await Deno.readTextFile("lists/nepali-news-sites.txt");
+const globalFilter = await Deno.readTextFile("lists/global-filter.txt");
 const sites = contents.split("\n").filter((l: string) => l.trim() !== "");
 const filters = sites.map((site: string) => `
 ! ----- START ${site} -----
@@ -25,5 +26,5 @@ const filters = sites.map((site: string) => `
 await Deno.mkdir("_site/filters", { recursive: true });
 await Deno.writeTextFile(
   "_site/filters/nepali-news-filters.txt",
-  preamble + filters.join("\n"),
+  [preamble, globalFilter, ...filters].join("\n"),
 );
